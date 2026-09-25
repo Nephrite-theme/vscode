@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3
+
+- Terminal bright black is `overlay1` (Nephrite palette 0.1.2), so dim text like shell suggestions stays readable.
+
 ## 0.1.2
 
 - README links both the Visual Studio Marketplace and Open VSX listings.
