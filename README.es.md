@@ -35,7 +35,7 @@ Un tema sereno, inspirado en el jade, para [Visual Studio Code](https://code.vis
 2. Busca **Nephrite** y haz clic en **Install**.
 3. Abre el selector de temas con `Ctrl+K Ctrl+T` (`Cmd+K Cmd+T`) y elige un sabor.
 
-¿Usas VSCodium, Cursor u otro editor basado en VS Code? Nephrite también está en [Open VSX](https://open-vsx.org).
+Nephrite está en el [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=nephrite-theme.nephrite) y en [Open VSX](https://open-vsx.org/extension/nephrite-theme/nephrite), así que los mismos pasos sirven en VSCodium, Cursor y otros editores basados en VS Code.
 
 ### A mano
 
