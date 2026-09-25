@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2
+
+- README links both the Visual Studio Marketplace and Open VSX listings.
+
 ## 0.1.1
 
 - Editor previews for every flavor in the README.
