@@ -21,6 +21,14 @@ A calm, jade-inspired theme for [Visual Studio Code](https://code.visualstudio.c
 | **Nephrite Jade** | <img src="assets/jade.png" alt="Jade swatches" width="240"> | Dark with more green, for long days |
 | **Nephrite Mint** | <img src="assets/mint.png" alt="Mint swatches" width="240"> | Light and airy, for daylight |
 
+## Previews
+
+![Nephrite Forest in the editor](assets/forest-editor.webp)
+
+![Nephrite Jade in the editor](assets/jade-editor.webp)
+
+![Nephrite Mint in the editor](assets/mint-editor.webp)
+
 ## Install
 
 1. Open the **Extensions** view (`Ctrl+Shift+X`, or `Cmd+Shift+X` on macOS).

@@ -21,6 +21,14 @@ Un tema sereno, inspirado en el jade, para [Visual Studio Code](https://code.vis
 | **Nephrite Jade** | <img src="assets/jade.png" alt="Muestras de Jade" width="240"> | Oscuro con más verde, para jornadas largas |
 | **Nephrite Mint** | <img src="assets/mint.png" alt="Muestras de Mint" width="240"> | Claro y ligero, para el día |
 
+## Capturas
+
+![Nephrite Forest en el editor](assets/forest-editor.webp)
+
+![Nephrite Jade en el editor](assets/jade-editor.webp)
+
+![Nephrite Mint en el editor](assets/mint-editor.webp)
+
 ## Instalación
 
 1. Abre la vista de **Extensiones** (`Ctrl+Shift+X`, o `Cmd+Shift+X` en macOS).
