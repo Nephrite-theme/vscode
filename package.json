@@ -1,0 +1,50 @@
+{
+  "name": "nephrite",
+  "displayName": "Nephrite",
+  "description": "A calm, jade-inspired theme in three flavors: Forest, Jade and Mint.",
+  "version": "0.1.0",
+  "publisher": "nephrite-theme",
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0d1c14",
+    "theme": "dark"
+  },
+  "homepage": "https://getnephrite.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nephrite-theme/vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/Nephrite-theme/vscode/issues"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": ["Themes"],
+  "keywords": ["theme", "color theme", "dark theme", "light theme", "green", "jade", "nephrite"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nephrite Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nephrite-forest-color-theme.json"
+      },
+      {
+        "label": "Nephrite Jade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nephrite-jade-color-theme.json"
+      },
+      {
+        "label": "Nephrite Mint",
+        "uiTheme": "vs",
+        "path": "./themes/nephrite-mint-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "sync": "node scripts/sync-palette.mjs",
+    "build": "node scripts/build.mjs",
+    "package": "node scripts/build.mjs && npx @vscode/vsce package"
+  }
+}

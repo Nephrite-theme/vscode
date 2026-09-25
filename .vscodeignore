@@ -1,0 +1,7 @@
+.github/**
+.vscode/**
+scripts/**
+palette.json
+.editorconfig
+.gitignore
+*.vsix
