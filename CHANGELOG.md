@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.1
+
+- Editor previews for every flavor in the README.
+- Also published on [Open VSX](https://open-vsx.org) for VSCodium, Cursor and other editors based on VS Code.
+
 ## 0.1.0
 
 - First release with three flavors: Nephrite Forest, Nephrite Jade and Nephrite Mint.

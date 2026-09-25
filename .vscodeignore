@@ -5,3 +5,4 @@ palette.json
 .editorconfig
 .gitignore
 *.vsix
+assets/*-editor.webp

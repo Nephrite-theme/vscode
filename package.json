@@ -2,7 +2,7 @@
   "name": "nephrite",
   "displayName": "Nephrite",
   "description": "A calm, jade-inspired theme in three flavors: Forest, Jade and Mint.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "nephrite-theme",
   "license": "MIT",
   "icon": "icon.png",
@@ -21,8 +21,18 @@
   "engines": {
     "vscode": "^1.75.0"
   },
-  "categories": ["Themes"],
-  "keywords": ["theme", "color theme", "dark theme", "light theme", "green", "jade", "nephrite"],
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color theme",
+    "dark theme",
+    "light theme",
+    "green",
+    "jade",
+    "nephrite"
+  ],
   "contributes": {
     "themes": [
       {
